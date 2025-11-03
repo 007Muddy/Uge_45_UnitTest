@@ -21,10 +21,24 @@ jobs:
         working-directory: ./Unittest 
         run: dotnet test
 
+  # NYT JOB TILFØJET HER
+  scan-for-vulnerable-packages:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for vulnerable packages
+        # working-directory er fjernet for at køre på solution-niveau
+        run: |
+          dotnet restore
+          New-Item vulnerabilities.txt
+          dotnet list package --vulnerable --include-transitive | Tee-Object vulnerabilities.txt
+          $matches = Get-Content vulnerabilities.txt | Select-String -Pattern "has the following vulnerable packages"
+          if ($matches.Length -gt 0) {echo 'Vulnerable packages detected'; exit 1}
+
   build:
     runs-on: windows-latest
-    # RETTELSE: 'build'-jobbet kører nu FØRST, efter 'test'-jobbet er bestået
-    needs: test 
+    # RETTELSE: 'build'-jobbet venter nu på BÅDE test og scan
+    needs: [test, scan-for-vulnerable-packages] 
     permissions:
       contents: read #This is required for actions/checkout
 
@@ -75,3 +89,4 @@ jobs:
           app-name: 'testing-cd-ci-unittest'
           slot-name: 'Production'
           package: .
+
