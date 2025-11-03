@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5693AF11-952E-43DC-A3CF-25DE75844D20}|ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.dcproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\asp.net-core-sql-injection-example-master\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5693AF11-952E-43DC-A3CF-25DE75844D20}|ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.dcproj|solutionrelative:asp.net-core-sql-injection-example-master\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5693AF11-952E-43DC-A3CF-25DE75844D20}|ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.dcproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\asp.net-core-sql-injection-example-master\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5693AF11-952E-43DC-A3CF-25DE75844D20}|ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.dcproj|solutionrelative:asp.net-core-sql-injection-example-master\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\models\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\models\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|solutionrelative:unittest\\test-firstname-dom\u00E6neprimitivet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -41,15 +53,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\ASP.NET-Core-SQL-Injection-Example-master\\.dockerignore",
+              "RelativeDocumentMoniker": "ASP.NET-Core-SQL-Injection-Example-master\\.dockerignore",
+              "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\ASP.NET-Core-SQL-Injection-Example-master\\.dockerignore",
+              "RelativeToolTip": "ASP.NET-Core-SQL-Injection-Example-master\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-03T13:53:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.yml",
+              "RelativeToolTip": "ASP.NET-Core-SQL-Injection-Example-master\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-03T13:53:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unittest",
+              "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Unittest.csproj",
+              "RelativeDocumentMoniker": "Unittest\\Unittest.csproj",
+              "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Unittest.csproj",
+              "RelativeToolTip": "Unittest\\Unittest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T13:53:06.31Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Lastname.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Lastname.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Models\\Lastname.cs",
@@ -62,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Firstname.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Firstname.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Models\\Firstname.cs",
@@ -82,11 +133,12 @@
               "RelativeToolTip": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-03T11:58:41.05Z"
+              "WhenOpened": "2025-11-03T11:58:41.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -98,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Test-Firstname-dom\u00E6neprimitivet.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "RelativeDocumentMoniker": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
@@ -110,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NameController.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Controllers\\NameController.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Controllers\\NameController.cs",
@@ -118,11 +170,12 @@
               "RelativeToolTip": "cd-ci-test-main\\Controllers\\NameController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:47.659Z"
+              "WhenOpened": "2025-11-03T11:49:47.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Program.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Program.cs",
@@ -134,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "main.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\main.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\main.cs",
