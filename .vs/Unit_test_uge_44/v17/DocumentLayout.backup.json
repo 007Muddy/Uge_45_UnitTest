@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\unittest\\test-firstname-dom\u00E6neprimitivet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|solutionrelative:unittest\\test-firstname-dom\u00E6neprimitivet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\validatethenamemodelbinding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,13 +41,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ValidateTheNameModelBinding.csproj",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "RelativeDocumentMoniker": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "RelativeToolTip": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-03T11:58:41.05Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test-Firstname-dom\u00E6neprimitivet.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "RelativeDocumentMoniker": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
@@ -74,7 +74,8 @@
               "RelativeToolTip": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:58.042Z"
+              "WhenOpened": "2025-11-03T11:49:58.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
