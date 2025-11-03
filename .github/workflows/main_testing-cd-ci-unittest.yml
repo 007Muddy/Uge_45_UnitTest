@@ -10,18 +10,21 @@ on:
   workflow_dispatch:
 
 jobs:
-
-test:
-  runs-on: windows-latest
-
-  steps:
-    - uses: actions/checkout@v4
-    - name: Run tests
-      working-directory: ./Unittest.Test-Firstname-domæneprimitivet
-      run: dotnet test
+  test:
+    runs-on: windows-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run tests
+        # RETTELSE: Stien er nu til mappen 'Unittest', ikke en .cs fil
+        working-directory: ./Unittest 
+        run: dotnet test
 
   build:
     runs-on: windows-latest
+    # RETTELSE: 'build'-jobbet kører nu FØRST, efter 'test'-jobbet er bestået
+    needs: test 
     permissions:
       contents: read #This is required for actions/checkout
 
@@ -72,4 +75,3 @@ test:
           app-name: 'testing-cd-ci-unittest'
           slot-name: 'Production'
           package: .
-          
