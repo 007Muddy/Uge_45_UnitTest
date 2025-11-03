@@ -104,6 +104,9 @@
             "projectReferences": {
               "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj": {
                 "projectPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj"
+              },
+              "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj": {
+                "projectPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj"
               }
             }
           }

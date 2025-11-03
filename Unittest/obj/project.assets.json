@@ -954,6 +954,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "ValidateTheNameModelBinding >= 1.0.0",
       "coverlet.collector >= 6.0.2",
@@ -996,6 +997,9 @@
           "projectReferences": {
             "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj": {
               "projectPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj"
+            },
+            "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj": {
+              "projectPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj"
             }
           }
         }
@@ -1052,5 +1056,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Uge41\\Uge41.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

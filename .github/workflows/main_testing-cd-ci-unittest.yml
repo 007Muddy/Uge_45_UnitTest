@@ -17,7 +17,7 @@ test:
   steps:
     - uses: actions/checkout@v4
     - name: Run tests
-      working-directory: ./Unittest
+      working-directory: ./Unittest.Test-Firstname-domæneprimitivet
       run: dotnet test
 
   build:
