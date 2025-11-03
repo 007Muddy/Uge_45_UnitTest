@@ -9,7 +9,6 @@
       "Unittest/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.12.0",
-          "Uge41": "1.0.0",
           "ValidateTheNameModelBinding": "1.0.0",
           "coverlet.collector": "6.0.2",
           "xunit": "2.9.2",

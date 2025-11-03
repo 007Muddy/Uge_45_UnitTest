@@ -13,6 +13,8 @@ namespace ValidateTheNameModelBinding.Models
 
         public Lastname(string value)
         {
+            // ---------- START PÅ UDKOMMENTERET INVARIANS ----------
+            /*
             if (value == null) throw new ArgumentNullException(nameof(value));
 
             var trimmed = value.Trim();
@@ -23,6 +25,11 @@ namespace ValidateTheNameModelBinding.Models
                 throw new ArgumentException("Lastname contains invalid characters.");
 
             Value = trimmed;
+            */
+            // ---------- SLUT PÅ UDKOMMENTERET INVARIANS ----------
+
+            // Accepterer nu alle værdier, selv ugyldige:
+            Value = value;
         }
 
         public override string ToString() => Value;
