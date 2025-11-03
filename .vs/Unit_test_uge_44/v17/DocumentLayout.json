@@ -33,12 +33,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValidateTheNameModelBinding",
+              "Title": "ValidateTheNameModelBinding.csproj",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "RelativeDocumentMoniker": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
@@ -58,8 +62,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAJQIAAAAAAAAAAAYwIwIAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-03T11:50:04.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:50:04.659Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "RelativeToolTip": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:58.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:49:58.042Z"
             },
             {
               "$type": "Document",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "cd-ci-test-main\\Controllers\\NameController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:47.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:49:47.659Z"
             },
             {
               "$type": "Document",
@@ -97,8 +98,7 @@
               "RelativeToolTip": "cd-ci-test-main\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:41.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:49:41.723Z"
             },
             {
               "$type": "Document",
@@ -110,12 +110,7 @@
               "RelativeToolTip": "cd-ci-test-main\\main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:39.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-11-03T11:49:39.393Z"
             }
           ]
         }
