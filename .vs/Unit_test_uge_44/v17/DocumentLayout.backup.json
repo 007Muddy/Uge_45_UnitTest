@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\models\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\models\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\cd-ci-test-main\\models\\firstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006847A7-A324-0FEE-C228-DFDFF26939B3}|cd-ci-test-main\\ValidateTheNameModelBinding.csproj|solutionrelative:cd-ci-test-main\\models\\firstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|c:\\users\\mnb\\desktop\\softwaresikkerher\\uge_45_unittest\\unittest\\test-firstname-dom\u00E6neprimitivet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|Unittest\\Unittest.csproj|solutionrelative:unittest\\test-firstname-dom\u00E6neprimitivet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,7 +49,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lastname.cs",
+              "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Lastname.cs",
+              "RelativeDocumentMoniker": "cd-ci-test-main\\Models\\Lastname.cs",
+              "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Lastname.cs",
+              "RelativeToolTip": "cd-ci-test-main\\Models\\Lastname.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:09:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Firstname.cs",
+              "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Firstname.cs",
+              "RelativeDocumentMoniker": "cd-ci-test-main\\Models\\Firstname.cs",
+              "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Models\\Firstname.cs",
+              "RelativeToolTip": "cd-ci-test-main\\Models\\Firstname.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:09:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ValidateTheNameModelBinding.csproj",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "RelativeDocumentMoniker": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
@@ -49,12 +83,11 @@
               "RelativeToolTip": "cd-ci-test-main\\ValidateTheNameModelBinding.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-03T11:58:41.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:58:41.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -66,20 +99,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Test-Firstname-dom\u00E6neprimitivet.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "RelativeDocumentMoniker": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "ToolTip": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
               "RelativeToolTip": "Unittest\\Test-Firstname-dom\u00E6neprimitivet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:49:58.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T11:49:58.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NameController.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Controllers\\NameController.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Controllers\\NameController.cs",
@@ -91,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\Program.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\Program.cs",
@@ -103,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cs",
               "DocumentMoniker": "C:\\Users\\Mnb\\Desktop\\SoftwareSikkerher\\Uge_45_UnitTest\\cd-ci-test-main\\main.cs",
               "RelativeDocumentMoniker": "cd-ci-test-main\\main.cs",

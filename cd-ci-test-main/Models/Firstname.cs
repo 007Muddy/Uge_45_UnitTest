@@ -9,12 +9,12 @@ namespace ValidateTheNameModelBinding.Models
         {
             public string Value { get; }
 
-            // ... (konstanter)
+            private const int MinLength = 1;
+            private const int MaxLength = 50;
+            private static readonly Regex AllowedPattern = new Regex(@"^[A-Za-zÆØÅæøå]+(?:[ '-][A-Za-zÆØÅæøå]+)*$", RegexOptions.Compiled);
 
             public Firstname(string value)
             {
-                // ------------- INVARIANSEN ER NU UDKOMMENTERET -------------
-                /*
                 if (value == null) throw new ArgumentNullException(nameof(value));
 
                 var trimmed = value.Trim();
@@ -25,12 +25,9 @@ namespace ValidateTheNameModelBinding.Models
                     throw new ArgumentException("Firstname contains invalid characters.");
 
                 Value = trimmed;
-                */
-                // ------------- NY LINJE TILFØJET UDEN VALIDERING -------------
-                Value = value; // Sætter værdien direkte, selvom den er ugyldig!
             }
 
             public override string ToString() => Value;
         }
     }
-}
+}       
